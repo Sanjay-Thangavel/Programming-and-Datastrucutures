@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\sanjay t\desktop\pds\pds labs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1654999020 source:c:\users\sanjay t\desktop\pds\pds labs\file.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1654999914 source:c:\users\sanjay t\desktop\pds\pds labs\indexfile.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1655619893 source:c:\users\sanjay t\desktop\pds\pds labs\pointer.cpp
+	<bits/stdc++.h>
+
+1655654472 source:c:\users\sanjay t\desktop\pds\pds labs\friendfn.cpp
+	<iostream>
+
+1655655415 source:c:\users\sanjay t\desktop\pds\pds labs\friendclass.cpp
+	<iostream>
+
